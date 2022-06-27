@@ -1,0 +1,48 @@
+#L{
+    color:red;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+h1{
+    color: rgba(173, 87, 87, 1);
+    /* text-decoration: line-through; */
+}
+
+html{
+    /* background: url('http://127.0.0.1:5500/SCPFoundation.png'); */
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#V{
+    height:755px;
+}
+
+#L1{
+    color: rgb(43, 222, 27);
+}
+
+#T{
+    font-size: 20px;
+}
+
+#T1{
+    color: rgb(61, 179, 145);
+}
+#UL{
+    color:  rgba(61, 179, 145, 0.9);
+}
+
+#P{
+    color: darkorange;
+    /* font-weight: 400; */
+    font-style: semi-bold;
+}
+#A{
+    text-decoration: line-through;
+    color: red;
+}
+#D{
+    color: red;
+}
